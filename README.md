@@ -1,4 +1,8 @@
-# React + Vite
+# AWS Amplify Tutorial
+
+This repo follows AWS tutorial on CI/CD for a fullstack app using Amplify.
+
+## React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
